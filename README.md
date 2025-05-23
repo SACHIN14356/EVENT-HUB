@@ -20,7 +20,6 @@ This is a responsive and elegant **Upcoming Events** website designed and develo
 
 - **HTML5**
 - **CSS3**
-- **JavaScript** *(optional if any interactivity is included)*
 
 ---
 
